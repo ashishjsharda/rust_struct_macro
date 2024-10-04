@@ -1,3 +1,4 @@
+workspace = { members = [ "my_binary","my_macro"] }
 [package]
 name = "rust_struct_macro"
 version = "0.1.0"
